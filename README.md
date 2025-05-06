@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @millikanjames math teacher and soccer coach.
+- 👋 Hi, I’m @millikanjames, a math teacher and soccer coach.
 - 👀 I’m interested in sports analytics and climate modeling.
 - 🌱 I’m currently learning how to program in R and Python now that my student MATLAB licence expired.
 - 💞️ I’m looking to collaborate on statistical modeling for ecological justice #LaudatoSi and sports analytics.
